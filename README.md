@@ -1,6 +1,6 @@
 # Bikesharing
-This repository 
-[Click here for the tableau story!](https://public.tableau.com/profile/k.sharma#!/vizhome/Bikesharing_Story/Deliverable)
+### An overview...
+This repository uses NYC bike sharing data in order to create a detailed [tableu story](https://public.tableau.com/profile/k.sharma#!/vizhome/Bikesharing_Story/Deliverable) describing the trends and characteristics of the bike sharing program. This data is derived from a csv source, imported through jupyter notebook and pandas, and then presented through tableau. 
 
 
 
