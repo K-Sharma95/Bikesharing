@@ -10,7 +10,9 @@ The *third* visualization provides even more detail about the timing of trips ta
 ![visualizations](Resources/tableau_panel_4.png)
 ![visualizations](Resources/tableau_panel_5.png)
 
-  Finally, our *last two* visualizations neatly display where rides start, and where they end, respectively. When accessing this map on the [tableau story](https://public.tableau.com/profile/k.sharma#!/vizhome/Bikesharing_Story/Deliverable) the user can interact with the map, and further explore this data. 
+  Finally, our *last two* visualizations neatly display where rides start, and where they end, respectively. When accessing this map on the [tableau story](https://public.tableau.com/profile/k.sharma#!/vizhome/Bikesharing_Story/Deliverable) the user can interact with the map, and further explore this data.
+![visualizations](Resources/tableau_panel_6.png)
+![visualizations](Resources/tableau_panel_7.png)
 
 ## In conclusion...
   This tableau story has provided the reader with an incredible amount information and presents it in an easy to read way. This data and these visualizations can be used to improve the program and help design future bike sharing programs in other cities. Given that this is in NYC this data is likely to be unique for city users. An immensely helpful comparison would be conducting the same analysis on bike sharing programs in suburban and/or rural communities. The similarities and differences between those analysis and this one would be very insightful when designing programs in the future.
